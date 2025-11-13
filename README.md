@@ -1,3 +1,9 @@
+# Thinking in React Example
+<img src="https://react.dev/images/docs/s_thinking-in-react_ui.png" height="250pxpx"/>
+
+<a href="https://react.dev/learn/thinking-in-react"> React tutorial page link </a> <br />
+<a href="https://ckshajeeu.github.io/react-thinking-components/"> Click here to view the demo! </a>
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
